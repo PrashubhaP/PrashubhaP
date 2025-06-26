@@ -10,14 +10,7 @@
 
 ### 🔧 Skills & Tools
 
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
 - 🌱 I’m currently learning Web Development.   
 - 📫 How to reach me:[LinkedIn]((https://www.linkedin.com/in/prashubha-pathak-1077a32b2/)) | [Instagram]((https://www.instagram.com/prashubha_pathak/)) | [Facebook]((https://www.facebook.com/prashubha.pathak))
