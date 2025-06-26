@@ -26,21 +26,19 @@
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact:  Conversation is my superpower — favorite way to connect and share energy.
 
-### Connect with ME:
+### Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://www.linkedin.com/in/prashubha-pathak-1077a32b2/" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/prashubha-pathak-1077a32b2/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://www.instagram.com/prashubha_pathak/" alt="Instagram" width="40" height="40"/>
+  <a href="https://www.instagram.com/prashubha_pathak/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://www.facebook.com/prashubha.pathak" alt="Facebook" width="40" height="40"/>
+  <a href="https://www.facebook.com/prashubha.pathak" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
-
-
 
 ### 📊 GitHub Stats
 
