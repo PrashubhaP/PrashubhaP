@@ -3,6 +3,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=PrashubhaP&color=blue" alt="Profile views"/>
 </p>
+
 - 🎓 A computer engineering student who likes to make learning loud and lively  
 - 💻 Currently exploring **Web Development** and everything it unlocks  
 - 🌸 Can't resist anything pink (seriously, try me)  
