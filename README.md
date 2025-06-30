@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=PrashubhaP&color=blue" alt="Profile views"/>
 </p>
 
