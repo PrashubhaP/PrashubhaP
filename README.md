@@ -44,6 +44,6 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
-![Prashubha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashubhaP&show_icons=true&theme=tokyonight)  
+![Prashubha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashubhaP&show_icons=true&theme=tokyonight) -->
