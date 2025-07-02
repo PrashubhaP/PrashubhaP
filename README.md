@@ -5,9 +5,7 @@
 </p>
 
 - 🎓 A computer engineering student who likes to make learning loud and lively  
-- 💻 Currently exploring **Web Development** and everything it unlocks  
-- 🌸 Can't resist anything pink (seriously, try me)  
-- 🎤 Forever ready to talk, vibe, and create something fun
+- 💻 Currently exploring **Web Development** and everything it unlocks   
 
 ### Languages and Tools:
 
