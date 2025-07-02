@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prashubha Pathak</h1>
-<h3 align="center">talkative by nature, techie by choice</h3>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=PrashubhaP&color=blue" alt="Profile views"/>
 </p>
