@@ -38,7 +38,8 @@
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact:  Conversation is my superpower — favorite way to connect and share energy.
 
-###Connect with me:
+
+Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prashubha-pathak-1077a32b2/" target="_blank">
