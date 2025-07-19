@@ -51,6 +51,9 @@ Connect with me:
   <a href="https://www.facebook.com/prashubha.pathak" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
+  <a href="https://medium.com/@prashubhapathak" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/293px-Medium_logo_Monogram.svg.png?20170829134410" alt="Medium" width="40" height="40"/>
+  </a>
 </p>
 
 <!-- ### 📊 GitHub Stats
