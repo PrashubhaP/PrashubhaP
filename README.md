@@ -4,7 +4,6 @@
 </p>
 
 - 🎓 A computer engineering student who likes to make learning loud and lively  
-- 💻 Currently exploring **Web Development** and everything it unlocks   
 
 ### Languages and Tools:
 
@@ -34,7 +33,6 @@
 </p>
 
 
-- 🌱 I’m currently learning Web Development.   
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact:  Conversation is my superpower — favorite way to connect and share energy.
 
