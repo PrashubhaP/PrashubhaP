@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
                       <a href="https://github.com/" target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-                        <a href="https://github.com/" target="blank">
-  <img src="https://banner2.cleanpng.com/20180616/gor/kisspng-latex-computer-software-computer-program-free-soft-latex-5b250bb37b0585.3478847215291544835039.jpg" alt="GitHub" width="40" height="40"/>
 </p>
 
 
